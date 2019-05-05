@@ -46,6 +46,8 @@ void* cranp_vm_get_chunk(cranp_vm_t* vm, unsigned int slotId);
 void cranp_init_script(cranp_script_t* script);
 void cranp_vm_execute_script(cranp_vm_t* vm, cranp_script_t* script);
 
+#endif // CRANBERRY_PROCEDURAL
+
 #ifdef CRANBERRY_PROCEDURAL_TEST
 void cranp_test(void);
 #endif // CRANBERRY_PROCEDURAL_TESTS
@@ -573,5 +575,3 @@ void cranp_test(void)
 #endif // CRANBERRY_PROCEDURAL_TESTS
 
 #endif // CRANBERRY_PROCEDURAL_IMPLEMENTATION
-
-#endif // CRANBERRY_PROCEDURAL
