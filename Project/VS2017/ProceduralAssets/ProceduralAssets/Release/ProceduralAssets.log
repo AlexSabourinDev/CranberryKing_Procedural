@@ -1,0 +1,5 @@
+﻿clang-cl.exe : warning : argument unused during compilation: '-O3' [-Wunused-command-line-argument]
+clang-cl.exe : warning : argument unused during compilation: '-O3' [-Wunused-command-line-argument]
+..\..\..\..\Source\main.c(196): warning : unused variable 'memoryId' [-Wunused-variable]
+C:\Program Files\LLVM\bin\lld-link.exe : warning : ignoring unknown argument: -Ofast
+  ProceduralAssets.vcxproj -> C:\Users\Alexandre\Desktop\Development\CranberryKing\CranberryKing_ProceduralAssets\Project\VS2017\ProceduralAssets\Release\ProceduralAssets.exe

@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\alexandre\desktop\development\cranberryking\cranberryking_proceduralassets\source\main.c(25): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\alexandre\desktop\development\cranberryking\cranberryking_proceduralassets\source\main.c(190): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ProceduralAssets.vcxproj -> C:\Users\Alexandre\Desktop\Development\CranberryKing\CranberryKing_ProceduralAssets\Project\VS2017\ProceduralAssets\Debug\ProceduralAssets.exe
